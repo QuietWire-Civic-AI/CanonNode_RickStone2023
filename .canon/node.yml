@@ -7,7 +7,7 @@ node:
   attested_on: "2025-09-08"
   attested_by: "Chris Blask (@christopherblask)"
   steward: "Chris Blask"
-  domain_expertise: [ ]
+  domain_expertise: ["Semantic Battlefield","PQC","DISARM"]
   status: active
   license: "CC-BY-4.0 (public) / QuietWire-Internal (private)"
   node_type: mammal   # allowed: mammal | org | ai_agent | collective | place
