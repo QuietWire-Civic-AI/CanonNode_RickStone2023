@@ -1,0 +1,13 @@
+node:
+  name: "Richard E. Davis"
+  handle: "RickStone2023"
+  github: "https://github.com/RickStone2023"
+  linkedin: "https://www.linkedin.com/in/rickstone2023"
+  email: ""
+  attested_on: "2025-09-08"
+  attested_by: "Chris Blask (@christopherblask)"
+  steward: "Chris Blask"
+  domain_expertise: [ ]
+  status: active
+  license: "CC-BY-4.0 (public) / QuietWire-Internal (private)"
+  node_type: mammal   # allowed: mammal | org | ai_agent | collective | place
